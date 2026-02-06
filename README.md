@@ -22,6 +22,10 @@ Geographic Strength: California and New York show the highest sales density, as 
 Sales Trends: Noticed significant sales peaks in the latter half of the year (September and November).
 
 📂 Repository Contents:
-Superstore_Dashboard_Puja.xlsx: The complete interactive dashboard file.
+Superstore Sales Dataset - Sheet1.csv: The raw dataset used for the analysis.
 
-Dashboard_Preview.png: <img width="1065" height="564" alt="Dashboard" src="https://github.com/user-attachments/assets/3b51921c-2a48-421d-96d5-27893669d542" />
+Superstore Sales Dataset - Pivot Table.csv: Processed data and summaries.
+
+Dashboard.pdf: High-quality PDF export for offline viewing.
+
+Dashboard.png: <img width="1065" height="564" alt="Dashboard" src="https://github.com/user-attachments/assets/3b51921c-2a48-421d-96d5-27893669d542" />
