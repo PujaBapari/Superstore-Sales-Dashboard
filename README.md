@@ -26,7 +26,7 @@ Sales Trends: Noticed significant sales peaks in the latter half of the year (Se
 
 📊 Superstore Sales Dataset - Pivot Table.csv: Processed data and summaries.
 
-📂 Dashboard.pdf: High-quality PDF export for offline viewing.
+📂 Dashboard.pdf: [High-quality PDF export for offline viewing.](https://github.com/PujaBapari/Superstore-Sales-Dashboard/blob/main/Dashboard.pdf)
 
 🖼️ Dashboard.png: A visual snapshot of the final Sales Dashboard.
 
