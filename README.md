@@ -24,7 +24,7 @@ Sales Trends: Noticed significant sales peaks in the latter half of the year (Se
 📂 Repository Contents:
 📄 Superstore Sales Dataset - Sheet1.csv: The raw dataset used for the analysis.
 
-📊 Superstore Sales Dataset - Pivot Table.csv: Processed data and summaries.
+📊 Superstore Sales Dataset - [Pivot Table.csv: Processed data and summaries.](https://github.com/PujaBapari/Superstore-Sales-Dashboard/blob/main/Supertore%20Sales%20Dataset%20-%20Pivot%20Table%20.csv)
 
 📂 Dashboard.pdf: [High-quality PDF export for offline viewing.](https://github.com/PujaBapari/Superstore-Sales-Dashboard/blob/main/Dashboard.pdf)
 
